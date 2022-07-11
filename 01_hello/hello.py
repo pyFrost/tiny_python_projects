@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author: pyFrost <philonology@gmail.com>
+Author: pyFrost
 Date: 10.July.2022
 Purpose: Say hello
 """
